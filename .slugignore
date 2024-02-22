@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Documentation and examples
+docs/
+examples/
