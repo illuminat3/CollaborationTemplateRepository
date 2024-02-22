@@ -1,0 +1,11 @@
+# Common files to ignore when packaging a VS Code extension
+
+# Source files
+src/
+
+# Node modules and dependencies
+node_modules/
+
+# Build output and temporary files
+out/
+*.log
