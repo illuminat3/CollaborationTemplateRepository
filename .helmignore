@@ -1,0 +1,14 @@
+# Common files to ignore for Helm chart packaging
+
+# Values and configuration files that are not needed in the package
+values.schema.json
+*.values.yaml
+
+# README and documentation
+README.md
+docs/
+
+# CI/CD and development-specific files
+.git/
+.gitignore
+CI/
